@@ -14,7 +14,7 @@ $(function () {
 	$("#reserveButton").click(function () {
 		$("#reserveModal").modal("show");
 	});
-    $("#loginButton").click(function () {
+	$("#loginButton").click(function () {
 		$("#loginModal").modal("show");
 	});
 });
